@@ -13,20 +13,20 @@
 
 ```c
 kdot-mi@github
--------------------------------------------------------------------------
+-----------------------------------------------------------------------
 Location: Tampa, FL
 Hobbies: Running, Photography, Gaming, Anime
 Discord: kdot_mi
--------------------------------------------------------------------------
-Skills: Project Planning, Team Coordination, Leadership, Risk Management
+-----------------------------------------------------------------------
+Skills: Project Planning, Team Coordination, Risk Management
 MS Office: Word, Excel, PowerPoint, Outlook
 Languages: Python, Java, C++
 Databases: MySQL, SQLite, PostgreSQL, Oracle
 Cloud: AWS, Microsoft Azure, Google Cloud
--------------------------------------------------------------------------
+-----------------------------------------------------------------------
 Education: Bachelor of Science in Information Technology
-United States Naval Officer (Supply Corps). I am currently leveraging my
-skills to support naval operations and logistics.
+United States Naval Officer (Supply Corps). I am currently leveraging
+my skills to support naval operations and logistics.
 ```
 <p align="center">
   <img src="https://i.postimg.cc/c4YxXNfd/PURPLE-Line.gif">
