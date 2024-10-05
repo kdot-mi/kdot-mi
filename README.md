@@ -40,6 +40,6 @@ my skills to support naval operations and logistics.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&customColorList=2A1AD8&height=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&customColorList=4776E6,8E54E9&height=90"/>
 </p>
 
