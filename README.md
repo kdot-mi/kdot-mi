@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
+</p>
+
 > [!IMPORTANT] 
 > *"A journey of a thousand miles begins with a single step"*
 >
@@ -6,16 +10,16 @@
   <img src="https://i.postimg.cc/c4YxXNfd/PURPLE-Line.gif">
 </p>
 
-```zsh
+```python
 > whoami
 ```
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Emblem_of_the_United_States_Navy.svg/900px-Emblem_of_the_United_States_Navy.svg.png" width="320" /> 
 
-```csharp
+```c
 kdot-mi@github
 --------------------------------------------------------------------------
 Location: Tampa, FL
-Hobbies: Running, Photography, Gaming
+Hobbies: Running, Photography, Gaming, Anime
 Discord: kdot_mi
 --------------------------------------------------------------------------
 Skills: Project Planning, Team Coordination, Leadership, Risk Management
@@ -32,5 +36,8 @@ skills to support naval operations and logistics.
   <img src="https://i.postimg.cc/c4YxXNfd/PURPLE-Line.gif">
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
+  <a href="https://www.linkedin.com/in/thurmondguy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="https://kdot-mi.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp;
+  <a href="https://anilist.co/user/KDOTmi/"><img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"></a>
 </p>
+
