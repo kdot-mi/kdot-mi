@@ -26,7 +26,7 @@ Cloud: AWS, Microsoft Azure, Google Cloud
 -----------------------------------------------------------------------
 Education: Bachelor of Science in Information Technology
 I am currently leveraging my skills to support naval operations
-and logistics as a United States Naval Officer (Supply Corps). 
+and logistics as a United States Naval Officer. 
 ```
 <p align="center">
   <img src="https://i.postimg.cc/c4YxXNfd/PURPLE-Line.gif">
