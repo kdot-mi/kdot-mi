@@ -25,8 +25,8 @@ Databases: MySQL, SQLite, PostgreSQL, Oracle
 Cloud: AWS, Microsoft Azure, Google Cloud
 -----------------------------------------------------------------------
 Education: Bachelor of Science in Information Technology
-United States Naval Officer (Supply Corps). I am currently leveraging
-my skills to support naval operations and logistics.
+I am currently leveraging my skills to support naval operations
+and logistics as a United States Naval Officer (Supply Corps). 
 ```
 <p align="center">
   <img src="https://i.postimg.cc/c4YxXNfd/PURPLE-Line.gif">
