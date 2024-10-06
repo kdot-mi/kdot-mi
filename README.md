@@ -9,7 +9,7 @@
 ```python
 > whoami
 ```
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Emblem_of_the_United_States_Navy.svg/900px-Emblem_of_the_United_States_Navy.svg.png" width="320" /> 
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Emblem_of_the_United_States_Navy.svg/900px-Emblem_of_the_United_States_Navy.svg.png" width="300" /> 
 
 ```c
 kdot-mi@github
@@ -40,6 +40,6 @@ my skills to support naval operations and logistics.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&customColorList=4776E6,8E54E9&height=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
 
