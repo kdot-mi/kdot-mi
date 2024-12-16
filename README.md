@@ -9,7 +9,7 @@
 ```python
 > whoami
 ```
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Emblem_of_the_United_States_Navy.svg/900px-Emblem_of_the_United_States_Navy.svg.png" width="300" /> 
+
 
 ```c
 kdot-mi@github
